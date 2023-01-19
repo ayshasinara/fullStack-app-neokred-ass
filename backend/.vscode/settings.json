@@ -1,0 +1,6 @@
+{
+  "prettier.requireConfig": true,
+  "prettier.configPath": "C:\\Users\\Aysha\\Desktop\\reactProject\\backend\\.vscode\\settings.json",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
